@@ -1,0 +1,2 @@
+def Pause():
+    input("Continue? ")
